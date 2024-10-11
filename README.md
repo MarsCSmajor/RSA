@@ -25,7 +25,7 @@ Here is a sample to decrypt Bob's encoded message
    99 1443 2382  871   99 2088 1443  764   99  871 1443   99 2382 2269  843   99 
  3237 2979   99  871  843 3780  843 1032 2088 1443 2962  843 2916 1400
 
-#compile code
+# Compile 
 
 g++ compiler:
 g++ -o rsa rsa.cpp
