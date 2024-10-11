@@ -6,3 +6,7 @@ The RSA (Rivest-Shamir-Adleman) algorithm is a widely used public-key cryptosyst
 You are given a public key P = (e, n), and an encoded message represented as a series of numbers. The program first takes the public key P as input, along with the length of the encoded message. The length of the encoded message is calculated by the formula q = n / p, where n = p * q.
 
 Once the value of q is determined, you can input your encoded message. The program will then decrypt the message, converting the numbers into readable words.
+
+
+Here is a sample to decrypt Bob's encoded message
+![image](https://github.com/user-attachments/assets/42715717-fc34-494b-933d-813dd1e46f90)
