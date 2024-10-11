@@ -9,4 +9,6 @@ Once the value of q is determined, you can input your encoded message. The progr
 
 
 Here is a sample to decrypt Bob's encoded message
-![image](https://github.com/user-attachments/assets/42715717-fc34-494b-933d-813dd1e46f90)
+
+![Alt text]([image-url](https://github.com/user-attachments/assets/42715717-fc34-494b-933d-813dd1e46f90))
+
