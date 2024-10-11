@@ -27,6 +27,8 @@ Here is a sample to decrypt Bob's encoded message
 
 # Compile 
 
-g++ compiler:
-g++ -o rsa rsa.cpp
-./rsa
+g++ compiler: <br>
+
+g++ -o rsa rsa.cpp <br>
+
+./rsa <br>
